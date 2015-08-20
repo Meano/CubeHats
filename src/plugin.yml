@@ -1,0 +1,14 @@
+name: CubeHats
+main: net.meano.CubeHats.CubeHatsMain
+version: 0.1
+author: Meano
+permissions:
+  CubeHats.*:
+    default: op
+    children:
+      CubeHats.Normal: true
+      CubeHats.More: true
+  CubeHats.Normal:
+    default: true
+  CubeHats.More:
+    default: false
