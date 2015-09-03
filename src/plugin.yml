@@ -1,6 +1,6 @@
 name: CubeHats
 main: net.meano.CubeHats.CubeHatsMain
-version: 0.1
+version: 0.2
 author: Meano
 permissions:
   CubeHats.*:
